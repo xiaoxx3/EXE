@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/bingtu.jpg</file>
+    <file>images/pexels-goumbik-917463.jpg</file>
+    <file>images/pexels-jplenio-1103970.jpg</file>
+    <file>images/pexels-padrinan-19670.jpg</file>
+    <file>images/pexels-pixabay-459335.jpg</file>
+    <file>images/饼图.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/我的照片.png</file>
+    <file>icons/关白粗.png</file>
+  </qresource>
+</RCC>
